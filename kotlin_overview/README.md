@@ -1,4 +1,4 @@
-# Kotlin - Overwiew
+# Kotlin - Overview
 
 This study involves creating simple programs that simulate a basic bank account, using two programming languages: Kotlin and Java. 
 The goal is to explore and compare the syntax and approach in both languages for implementing a basic banking system. 
