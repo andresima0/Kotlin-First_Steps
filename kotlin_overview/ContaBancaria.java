@@ -1,3 +1,5 @@
+// Exemplo simples de sistema bancário usando Java
+
 package com.andre.kotlin_overview;
 
 public class ContaBancaria {
